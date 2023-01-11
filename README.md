@@ -1,5 +1,12 @@
 # DP
 
-Matrix has been printed using recursion
+Strings of equal distribution have been generated.
 
-Backtracking works only if the strings are not equally distrubuted (drawback).
+Matrix has been printed using recursion.
+
+Backtracking has been implemented.
+
+Time Complexity: O(n^2) for iterative version + auxiliary stack space for recursion
+
+
+
