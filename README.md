@@ -6,7 +6,7 @@ Matrix has been printed using recursion.
 
 Backtracking has been implemented.
 
-Time Complexity: O(n^2) for iterative version + auxiliary stack space for recursion
+Time Complexity: O(n^2) + auxiliary stack space for recursion
 
 
 
