@@ -1,12 +1,4 @@
-# DP
+- 4 optimization algorithms have been implemented.
+- A neural network has been trained with the given dataset and the weights of the network have been optimized by the optimization algorithms.
 
-Strings of equal distribution have been generated.
-
-Matrix has been printed using recursion.
-
-Backtracking has been implemented.
-
-Time Complexity: O(n^2) + auxiliary stack space for recursion
-
-
-
+### After setting the optimized weights to the model and then fitting the model, the PSO algorithm produced better results when compared to others.
